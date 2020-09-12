@@ -1,4 +1,6 @@
+
 keydir="certs"
+mkdir -p ${keydir}
 cd "$keydir"
 
 # CA cert and private key
